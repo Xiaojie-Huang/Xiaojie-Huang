@@ -2,10 +2,10 @@
 
 I'm Xiaojie,an undergraduate from Harbin Institute of Technology(Postgraduate Recommendation),majored in computer science.
 
-- 🔭 I’m currently working on game development.(Internship in Morefun Studios,Tencent for three months)
+- 🔭 I’m currently working on game development.(Internship in Morefun Studios,Tencent for three months;LIGHTSPEED STUDIOS，Tencent for four months;Anata,NetEase for two months)
 - 🌱 I’m currently learning computer graphics and Unity/Unreal gameplay programming.
 - 📫 How to reach me: email to 1961895405@qq.com,or via QQ.
-- ⚡ Fun fact: Play Video Games in all platforms(Switch/PS5/PC/Mobile);There are some games I have to mention:Elden Ring,God of War,Outer Wilds,Dark Souls Series,I love them so much!
+- ⚡ Fun fact: Play Video Games in all platforms(Switch/PS5/PC/Mobile);There are some games I have to mention:Elden Ring,God of War,Outer Wilds,Dark Souls Series,Resident Evil Series!
 
 
 <!-- GitHub数据统计 -->
