@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xiaojie,an undergraduate from Harbin Institute of Technology(Postgraduate Recommendation),majored in computer science.
+I'm Xiaojie,an graduate from Harbin Institute of Technology,majored in computer science.
 
 - 🔭 I’m currently working on game development.(Internship in Morefun Studios,Tencent for three months;LIGHTSPEED STUDIOS，Tencent for four months;Anata,NetEase for two months)
 - 🌱 I’m currently learning computer graphics and Unity/Unreal gameplay programming.
